@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenUAInterface", "OpenUAInterface.csproj", "{0EB094AA-3230-4CEB-A101-1036D5BD4064}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCUA_Console", "..\OPCUA_Console\OPCUA_Console.csproj", "{B3B136C9-55A2-4740-AC92-3BFD7CCA53A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0EB094AA-3230-4CEB-A101-1036D5BD4064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EB094AA-3230-4CEB-A101-1036D5BD4064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EB094AA-3230-4CEB-A101-1036D5BD4064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B136C9-55A2-4740-AC92-3BFD7CCA53A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B136C9-55A2-4740-AC92-3BFD7CCA53A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B136C9-55A2-4740-AC92-3BFD7CCA53A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B136C9-55A2-4740-AC92-3BFD7CCA53A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
